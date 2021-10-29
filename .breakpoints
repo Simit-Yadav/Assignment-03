@@ -1,0 +1,20 @@
+{
+  "files": {
+    ".replit": [
+      {
+        "id": "70a793f2-03bc-450d-afda-ac55ed83a435",
+        "line": 1,
+        "version": 16,
+        "index": 0
+      }
+    ],
+    "src/Restaurants.js": [
+      {
+        "id": "8681cc61-541f-4311-8c35-95b137196387",
+        "line": 1,
+        "version": 202,
+        "index": 0
+      }
+    ]
+  }
+}
